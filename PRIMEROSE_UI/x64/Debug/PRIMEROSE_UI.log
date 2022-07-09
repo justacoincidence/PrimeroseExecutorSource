@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Administrator\Desktop\Fivem Cheats Dll's\Primerose-ui-main\x64\Debug\PRIMEROSE_UI.exe : fatal error LNK1120: 1 unresolved externals
